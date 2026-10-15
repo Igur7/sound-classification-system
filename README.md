@@ -1,6 +1,6 @@
-# RPi sound recognition bundle
+# RPi sound recognition bundle for Droniada 2026
 
-Ten folder zawiera pliki potrzebne na Raspberry Pi do finalnego rozpoznawania dzwieku bez ML.
+Ten folder zawiera pliki potrzebne na Raspberry Pi do finalnego rozpoznawania dzwieku.
 
 ## Zawartosc
 
